@@ -1,0 +1,265 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [{
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Elsie Boskamp, Jon Winkler, Jillian Lucas, Kasey Caminiti and Jennifer Ernst Beaudry, USA TODAY",
+            "title": "Amazon Prime Day: 203+ last minute deals to shop before Prime Day ends - USA TODAY",
+            "description": "Amazon Prime Day 2022 is live! Shop 203+ best new Prime Day deals on Apple AirPods Pro, Blink cameras, iRobot vacuums, LG TVs and more today, July 13.",
+            "url": "https://www.usatoday.com/story/money/reviewed/2022/07/13/new-amazon-prime-day-sale-deals-2022/10054530002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/13/USAT/107e90e6-6df1-4343-a0a6-6dc016498ceb-Best-Prime-Day-Deals-2022-sales.png?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2022-07-14T07:59:00Z",
+            "content": "— Recommendations are independently chosen by Reviewed’s editors. Purchases you make through our links may earn us a commission.\r\nThe clock may be ticking but there's still time to shop al Amazon Pri… [+11632 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Sri Lanka protest sites calm as president's resignation awaited - Reuters.com",
+            "description": "Sri Lanka's main city, Colombo, was calm on Thursday as people waited for the resignation of President Gotabaya Rajapaksa, who fled to the Maldives to escape a popular uprising that erupted as the country struggled with an economic crisis.",
+            "url": "https://www.reuters.com/world/asia-pacific/sri-lanka-awaits-presidents-resignation-after-flight-2022-07-14/",
+            "urlToImage": "https://www.reuters.com/resizer/HQoxnt_xLB6BZVJdIuMaBcnddjQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T7WGHR6WSFORHBUWZCJ4VPZX4U.jpg",
+            "publishedAt": "2022-07-14T07:25:00Z",
+            "content": "COLOMBO, July 14 (Reuters) - Sri Lanka's main city, Colombo, was calm on Thursday as people waited for the resignation of President Gotabaya Rajapaksa, who fled to the Maldives to escape a popular up… [+4048 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "In Israel, Biden to sign joint pledge to prevent Iran going nuclear - Reuters.com",
+            "description": "U.S. President Joe Biden and Israeli Prime Minister Yair Lapid will sign a joint pledge to deny Iran nuclear weapons on Thursday, closing ranks after long-running disputes between the allies over global diplomacy with Tehran.",
+            "url": "https://www.reuters.com/world/us-israel-sign-joint-pledge-denying-nuclear-weapon-iran-2022-07-14/",
+            "urlToImage": "https://www.reuters.com/resizer/hCPTbani5AdPn8zVgOj8MoPCxng=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IAE5KWJKJ5MT5LG5YWIC73FLCI.jpg",
+            "publishedAt": "2022-07-14T07:23:00Z",
+            "content": "JERUSALEM, July 14 (Reuters) - U.S. President Joe Biden and Israeli Prime Minister Yair Lapid will sign a joint pledge to deny Iran nuclear weapons on Thursday, closing ranks after long-running dispu… [+3280 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "McKenna Aiello",
+            "title": "Khloe Kardashian and Ex Tristan Thompson Expecting Baby No. 2 Via Surrogate - E! NEWS",
+            "description": "Khloe Kardashian and Tristan Thompson are expecting their second child together, E! News has confirmed. Get all the details on True Thompson's soon-to-be sibling below.",
+            "url": "https://www.eonline.com/news/1192662/khloe-kardashian-and-ex-tristan-thompson-expecting-baby-no-2-via-surrogate",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2018118/rs_600x600-180218140141-600-khloe-kardashian-tristan-thompson-nba-party-2-021718.jpg?fit=around%7C1080:566&output-quality=90&crop=1080:566;center,top",
+            "publishedAt": "2022-07-14T06:26:00Z",
+            "content": "Khloe Kardashian and Tristan Thompson are officially expanding their family.\r\nThe Kardashians star, 38, and Chicago Bulls player, 31, are expecting their second baby together via surrogate, multiple … [+866 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Tyler Olson",
+            "title": "As Biden asks Saudis for oil help, US energy reps say they're tired of 'vilification' - Fox Business",
+            "description": "American energy industry representatives are upset that President Biden is asking for more oil abroad, rather than changing his policies at home.",
+            "url": "https://www.foxbusiness.com/politics/biden-asks-saudis-oil-help-us-energy-reps-theyre-tired-vilification",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/10/0/0/Joe-Biden-Michigan-Speech.jpg?ve=1&tl=1",
+            "publishedAt": "2022-07-14T05:57:31Z",
+            "content": "As President Biden travels to Saudi Arabia this week to ask for increased energy production from the Middle Eastern nation, American energy industry representatives say Biden should be looking states… [+5828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2022 British Open TV schedule, coverage, live stream, watch online, channel, golf tee times at St. Andrews - CBS Sports",
+            "description": "How to watch every memorable moment of the 150th Open Championship on TV or streaming live online",
+            "url": "https://www.cbssports.com/golf/news/2022-british-open-tv-schedule-coverage-live-stream-watch-online-channel-golf-tee-times-at-st-andrews/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/11/48ad5e4e-ceba-4ef7-b72a-051ac6b1b4ee/thumbnail/1200x675/d83711ffc34c7ea18272b93b06f9f47d/open-150-st-andrews-flag-g.png",
+            "publishedAt": "2022-07-14T05:51:00Z",
+            "content": "The final major of the 2022 golf season has arrived with The Open Championship set to begin its historic 150th tournament at St. Andrews. The beauty of summer will surround Scotland as The Open retur… [+2939 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eliza Mackintosh, CNN",
+            "title": "The 'worst variant' is here - CNN",
+            "description": "Omicron offshoot BA.5 is now dominating US infections, proving the pandemic is far from over.",
+            "url": "https://www.cnn.com/2022/07/13/world/coronavirus-newsletter-intl-07-13-22/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130165125-corona-virus-cdc-image-super-tease.jpg",
+            "publishedAt": "2022-07-14T05:24:00Z",
+            "content": "This is the weekly edition of CNN's coronavirus newsletter. Look out for your roundup every Wednesday. If you haven't subscribed yet, sign up here.\r\n (CNN)Nearly two-and-a-half years since the corona… [+12562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "Brendan Griffiths",
+            "title": "Best Prime Day deals 2022: live highlights of the summer sale's big finale - Android Central",
+            "description": "Rounding up all the remaining Prime Day deals in mobiles, TV, smart homes, tech and more",
+            "url": "https://www.androidcentral.com/news/live/prime-day-deals-2022-final-hours",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/wTeByZpnipRQEQPtBithrB-1200-80.jpg",
+            "publishedAt": "2022-07-14T04:00:00Z",
+            "content": "2022-07-14T03:22:58.683Z\r\n(Image credit: Roborock)\r\nThe Roborock E5 is a brilliant robot vacuum that can not only pick up dust and other solid particles, but it also has the ability to mop your floor… [+35480 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ryan Nobles, Dana Bash, Annie Grayer, Zachary Cohen",
+            "title": "First on CNN: Trump tried to call a member of the White House support staff talking with January 6 committee, sources say - CNN",
+            "description": "Former President Donald Trump tried to call a member of the White House support staff who was talking to the House select committee investigating January 6, 2021, two sources familiar with the matter tell CNN.",
+            "url": "https://www.cnn.com/2022/07/13/politics/trump-contact-white-house-support-staffer-january-6-committee/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220712143438-jan-6-hearing-071222.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-07-14T03:08:00Z",
+            "content": "Former President Donald Trump tried to call a member of the White House support staff who was talking to the House select committee investigating January 6, 2021, two sources familiar with the matter… [+4593 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Celsius Networks: cryptocurrency lender files for bankruptcy - The Guardian",
+            "description": "Company enters Chapter 11 process as fallout continues from collapse of global cryptocurrency networks",
+            "url": "https://amp.theguardian.com/technology/2022/jul/14/celsius-networks-cryptocurrency-lender-files-for-bankruptcy",
+            "urlToImage": null,
+            "publishedAt": "2022-07-14T02:10:00Z",
+            "content": "CryptocurrenciesCompany enters Chapter 11 process as fallout continues from collapse of global cryptocurrency networks \r\nThu 14 Jul 2022 03.10 BST\r\nThe cryptocurrency lender Celsius Network has annou… [+2067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Stephanie Apstein",
+            "title": "Unvaccinated Royals Lay Bare Their Lack of Commitment - Sports Illustrated",
+            "description": "Ten Royals will miss a series in Toronto due to their unwillingness to get vaccinated against COVID-19. Their ignorance is hurting themselves and their team.",
+            "url": "https://www.si.com/mlb/2022/07/14/unvaccinated-royals-lack-of-commitment-the-opener",
+            "urlToImage": "https://www.si.com/.image/t_share/MTkwODc4NDY2OTE5Mzc2NTY2/whit-merrifield.jpg",
+            "publishedAt": "2022-07-14T02:06:06Z",
+            "content": "Canada’s vaccine mandate saves lives. It promotes good public health. It also helps baseball fans figure out which players can be bothered to care about winning. \r\nCanada, as does the United States, … [+4924 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "Man charged in rape of Ohio 10-year-old who police say later traveled across state lines for abortion - ABC News",
+            "description": "An Ohio man was arrested in the rape of a 10-year-old girl who police said traveled to Indiana for an abortion after the state's six-week ban went into effect.",
+            "url": "https://abcnews.go.com/US/man-charged-rape-ohio-10-year-police-traveled/story?id=86754013",
+            "urlToImage": "https://s.abcnews.com/images/US/abortion-protest-oh-01-gty-iwb-220713_1657735970312_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-07-14T01:46:44Z",
+            "content": "An Ohio man has been accused of raping and impregnating a 10-year-old girl who police said then sought an out-of-state abortion days after Roe v. Wade was overturned and more restrictive abortion law… [+3320 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Joshua Schulte: Former CIA hacker convicted of 'brazen' data leak - BBC",
+            "description": "Prosecutors said Joshua Schulte leaked advanced hacking tools to WikiLeaks in a \"devastating\" move.",
+            "url": "https://www.bbc.com/news/world-us-canada-62158799",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2288/production/_125904880_gettyimages-635268902.jpg",
+            "publishedAt": "2022-07-14T01:31:08Z",
+            "content": "By Matt MurphyBBC News\r\nA former CIA hacker has been found guilty of leaking a trove of classified hacking tools to Wikileaks.\r\nJoshua Schulte was convicted of sending the CIA's \"Vault 7\" cyber-warfa… [+2868 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "McKenna Oxenden",
+            "title": "Dozens Unaccounted for After Storms Drench Southwest Virginia - The New York Times",
+            "description": "More than 4.5 inches of rain fell on Buchanan County, and dozens were unaccounted for in areas left inaccessible.",
+            "url": "https://www.nytimes.com/2022/07/13/us/virginia-flooding-missing.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/13/lens/13xp-flooding/13xp-flooding-facebookJumbo.jpg",
+            "publishedAt": "2022-07-14T01:26:48Z",
+            "content": "A lot of roadways are blocked by landslides, bridges, the approaches to those bridges are washed out, Mr. Chrimes said at the news conference. Its going to take time for that access to be restored, m… [+1229 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lindsay Kornick",
+            "title": "WaPo reporter: Delaying Biden's climate bill could have 'fatal, permanent and global' effects, blame Manchin - Fox News",
+            "description": "On Wednesday, Washington Post White House reporter Jeff Stein claimed on Twitter that the failure to pass a climate change bill would have catastrophic effects.",
+            "url": "https://www.foxnews.com/media/wapo-delaying-biden-climate-bill-fatal-effects-manchin",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/JOE-MANCHIN-REMARKS-WASHINGTON-DC.jpg",
+            "publishedAt": "2022-07-14T00:35:39Z",
+            "content": "Sen. Joe Manchin, D-W.Va., holding back on climate change bills could prove to be \"fatal\" and represents a \"worst case scenario for climate,\" Washington Post reporter Jeff Stein claimed on Wednesday.… [+3666 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt, Amanda Macias",
+            "title": "Hopes rise that grain exports can resume from Ukraine; a 'very difficult road' lies ahead, Zelenskyy says - CNBC",
+            "description": "Ukraine's President Volodymyr Zelenskyy has warned that \"a really difficult road\" lies ahead for Ukraine as Russia advances in the east of the country.",
+            "url": "https://www.cnbc.com/2022/07/13/russia-ukraine-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107078763-1655848736934-gettyimages-1241438648-AFP_32CX8LK.jpeg?v=1657711873&w=1920&h=1080",
+            "publishedAt": "2022-07-14T00:32:00Z",
+            "content": "U.S. Secretary of Defense Lloyd Austin thanked his Dutch counterpart for supplying Ukraine with military aid and for supporting joint U.S.-EU sanctions against Russia during a visit to the Pentagon.\r… [+1003 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "John Wagner, Mariana Alfaro",
+            "title": "Post Politics Now: Biden says inflation 'unacceptably high' but not as bad as it looks - The Washington Post",
+            "description": "“Tackling inflation is my top priority,\" Biden said in a statement Friday after new report showed prices soared by 9.1 percent in June compared to a year ago.",
+            "url": "https://www.washingtonpost.com/politics/2022/07/13/trump-jan6-committee-biden-israel/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JM2AGFQCW4I63C7LFNHEQGYVAA.jpg&w=1440",
+            "publishedAt": "2022-07-14T00:30:40Z",
+            "content": "The Washington Posts Travis M. Andrews, Roxanne Roberts and Jada Yuan watched Tuesdays Jan. 6 committee hearing with loyal viewers who watch them as if they were the hottest TV show of the moment. He… [+1507 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/amrita-khalid",
+            "title": "Surgeons at NYU Langone transplanted pig hearts into two brain-dead humans - Engadget",
+            "description": "The organs were genetically modified to better suit human recipients..",
+            "url": "https://www.engadget.com/nyu-langone-pig-heart-transplant-brain-dead-humans-000201042.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/4370b070-0302-11ed-b10c-046085100c6f",
+            "publishedAt": "2022-07-14T00:03:57Z",
+            "content": "Earlier this summer, physicians at NYU Langone were able to successfully transplant pig hearts into two recently-deceased humans. The medical team performed the procedures on June 16 and July 6, usin… [+1604 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Acacia Coronado, Paul J. Weber",
+            "title": "Uvalde video raises more calls for police accountability - The Associated Press",
+            "description": "UVALDE, Texas (AP) — As video taken inside Robb Elementary School  puts in full view the bewildering inaction by law enforcement during the May slaughter of 19 children and two teachers, some in Uvalde are shouting: Will police face consequences?",
+            "url": "https://apnews.com/article/police-shootings-texas-education-violence-498de6bad0bb869bb28a2eca5998db90",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/30f9821c93394f17bdd5f7deca1e61dd/2523.jpeg",
+            "publishedAt": "2022-07-14T00:01:57Z",
+            "content": "UVALDE, Texas (AP) As video taken inside Robb Elementary School puts in full view the bewildering inaction by law enforcement during the May slaughter of 19 children and two teachers, some in Uvalde … [+5279 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Brian Davids",
+            "title": "How ‘Better Call Saul’ Writer-EP Gordon Smith Brought a 13-Year-Old ‘Breaking Bad’ Story to a Close - Hollywood Reporter",
+            "description": "Logo text [This story contains major spoilers for Better Call Saul’s “Point and Shoot.”] In 2009, Breaking Bad opened the book on Lalo Salamanca, and now, 13 years later, Better Call Saul writer-EP Gordon Smith has closed it. After writing several of the most…",
+            "url": "https://www.hollywoodreporter.com/tv/tv-features/how-better-call-saul-writer-ep-gordon-smith-brought-a-13-year-old-breaking-bad-story-to-a-close-1235180005/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/07/Better-Call-Saul-Salamanca-Still-Gordon-Smith-Inset-Getty-H-2022.jpg?w=1024",
+            "publishedAt": "2022-07-13T23:47:25Z",
+            "content": "[This story contains major spoilers for Better Call Saul’s “Point and Shoot.”]\r\nIn 2009, Breaking Bad opened the book on Lalo Salamanca, and now, 13 years later, Better Call Saul writer-EP Gordon Smi… [+21079 chars]"
+        }
+    ]
+}
