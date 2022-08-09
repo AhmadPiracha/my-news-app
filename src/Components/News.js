@@ -43,7 +43,7 @@ const News = (props) => {
 
   return (
     <div className="container my-3" >
-      <h1 className="text-center" style={{marginTop:'90px'}}>
+      <h1 className="text-center" style={{marginTop:'90px',color: props.mode === "light" ? "#2F4F4F" : "white"}}>
         ZipperNews - Top {capitalizeFirstLetter(props.category)} Headlines
       </h1>
       {loading && <Spinner />}
