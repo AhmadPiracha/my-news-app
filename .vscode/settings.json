@@ -1,8 +1,4 @@
 {
-    "cSpell.ignoreWords": [
-        "Kantchev"
-    ],
-    "cSpell.words": [
-        "esline"
-    ]
+  "cSpell.ignoreWords": ["Kantchev"],
+  "cSpell.words": ["apikey", "esline"]
 }
